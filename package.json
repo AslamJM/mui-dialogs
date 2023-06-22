@@ -11,9 +11,17 @@
   "scripts": {
     "rollup-build-lib": "rollup -c"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AslamJM/minimal-mui-modals"
+  },
   "keywords": [],
   "author": "AslamJM",
-  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AslamJM/mui-dialogs/issues"
+  },
+  "homepage": "https://github.com/AslamJM/mui-dialogs#readme",
+  "license": "MIT",
   "devDependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
